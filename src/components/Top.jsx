@@ -64,7 +64,7 @@ const Top = () => {
         </div>
         {/* Services */}
         <div className=' w-[571px] mt-[136px] ml-[182px] h-[406px] text-white'>
-          <p className=' bg-[#041C37] w-[226px] mb-[3px] font-normal text-xs my-[3px] ml-[2px] '><span className=' border-l-4 border-x-yellow-500' ></span>Logistics & Supply Chain Solutions</p>
+          <p className=' bg-[#041C37] w-[190px] mb-[3px] font-normal text-xs my-[3px] ml-[2px] '><span className=' border-l-4 border-x-yellow-500' ></span>Logistics & Supply Chain Solutions</p>
           <h1 className='w-[554px] h-[213px] text-[60px] font-bold leading-[71px] align-top text-left'>Your Gateway <br /> to any Destination in the World</h1>
           <p className=' w-[571px] h-[72px] mt-[6px] text-[16px] leading-6 font-medium align-top text-left'>In augue ligula, feugiat ut nulla consequat. Ut est lacus, molestie in arcu no, iaculis vehicula ipsum. Nunc faucibus, nisl id dapibus finibus, enim diam interdum nulla, sed laoreet risus lectus.</p>
           <button className=' bg-gradient-to-br from-[#FFB629] from-0% via-[#FFDA56] via-50% to-[#FFD7A6] to-100% hover:from-[#FFD7A6] hover:to-[#FFB629] w-[194px] h-[60px] text-black mt-6 text-[16px] font-semibold leading-[22px]  align-top'>Explore More</button>

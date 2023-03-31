@@ -32,10 +32,10 @@ const Contact = () => {
         </div>
        <div className=' w-[758px] h-[468px] mt-[100px]  bg-[#091242]'>
           <div className=' grid grid-cols-2 gap-4 '>
-            <input type='name' placeholder='Your Name*' className=' placeholder:m-2 w-[365px] h-[60px] border border-[#4E5683] bg-transparent' />
-            <input type='Email' placeholder='Email*' className=' w-[365px] h-[60px] border border-[#4E5683] bg-transparent' />
-            <input type='Phone' placeholder='Phone Number*' className=' w-[365px] h-[60px] border border-[#4E5683] bg-transparent' />
-            <input type='City' placeholder='City*' className=' w-[365px] h-[60px] border border-[#4E5683] bg-transparent' />
+            <input type='name' placeholder='  Your Name*' className=' placeholder:m-2 w-[365px] h-[60px] border border-[#4E5683] bg-transparent' />
+            <input type='Email' placeholder='  Email*' className=' w-[365px] h-[60px] border border-[#4E5683] bg-transparent' />
+            <input type='Phone' placeholder='  Phone Number*' className=' w-[365px] h-[60px] border border-[#4E5683] bg-transparent' />
+            <input type='City' placeholder='  City*' className=' w-[365px] h-[60px] border border-[#4E5683] bg-transparent' />
           </div>
           <div>
             <textarea placeholder='Your Message' className=' w-[758px] h-[154px] border border-[#4E5683] mt-[31px] bg-transparent '></textarea>

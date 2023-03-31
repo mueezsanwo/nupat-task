@@ -65,7 +65,7 @@ const Body = () => {
           </div>
         </div>
         <div className='w-full bg-gradient-to-br from-[#FFB629] from-0% via-[#FFDA56] via-50% to-[#FFD7A6] to-100% h-[400px]  -mt-52 flex justify-center'>
-        <button className=' bg-gradient-to-br from-[#FFB629] from-0% via-[#FFDA56] via-50% to-[#FFD7A6] to-100% hover:from-[#FFD7A6] hover:to-[#FFB629] w-[194px] h-[60px] text-black mt-[100px] text-[16px] font-semibold leading-[22px]  align-top'>More Work</button>
+        <button className=' bg-[#091242] hover:from-[#FFD7A6] hover:to-[#FFB629] w-[194px] h-[60px] text-white mt-[130px] text-[16px] font-semibold leading-[22px]  align-top'>More Work</button>
         </div>
       </div>
       {/* Testimonial */}
