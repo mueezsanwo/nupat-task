@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Banner{
+    background-image: url( '../src/assets/Banner.png');
+  }
