@@ -9,9 +9,9 @@ const Blog = () => {
     <div>
         <div className=' ml-[100px]'>
         <div >
-            <div className=' ml-[500px] mt-[50px]'>
-            <p className=' bg-[E8E8E8] w-[226px] mb-[3px] font-normal text-base my-[3px] ml-[200px] '><span className=' border-l-4 border-x-yellow-500' ></span>Our Blog</p>
-          <h1 className='w-[554px] h-[213px] text-[60px] font-bold leading-[71px] align-top text-left'>Our Latest News</h1>
+            <div className=' ml-[420px] mt-[50px]'>
+            <p className=' bg-[E8E8E8] w-[226px] mb-[3px] font-normal text-base my-[3px] ml-[160px] p-2 '><span className=' border-l-4 border-x-yellow-500' ></span>Our Blog</p>
+          <h1 className='w-[554px] h-[213px] text-[60px] font-bold leading-[71px] align-top  text-left'>Our Latest News</h1>
             </div>
             <div className=' border-t-2 border-t-gray-200 w-[942px]   h-[308px] flex justify-center -mt-[60px] gap-[30px] ml-[180px]'>
                 <img src={Image6} alt='/' className=' w-[308] h-[253px] mt-[50px]' />
