@@ -10,6 +10,7 @@ module.exports = {
         'TeamBg1': 'url(../src/assets/photo8.png)',
         'TeamBg2': 'url(../src/assets/Photo9.png)',
         'FooterBg': 'url(../src/assets/Image7.png)',
+        'ButtonBg': 'url(../src/assets/Pattern.png)'
       },
         
     },

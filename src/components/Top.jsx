@@ -11,6 +11,7 @@ import Truck from '../assets/Truck.svg';
 import Plank from '../assets/Plank.svg';
 import Plane from '../assets/Plane.svg';
 import Plane2 from '../assets/Plane2.svg';
+import Pattern from '../assets/Pattern.png'
 
 const Top = () => {
   return (
@@ -37,16 +38,16 @@ const Top = () => {
          </div>
        </div> 
        </div>
-       <div className='bg-Banner bg-cover bg-opacity-100 bg-blend-luminosity w-full h-[995px] '>
         {/* navbar */}
+       <div className='bg-Banner bg-cover bg-opacity-100 bg-blend-luminosity w-full h-[995px] '>
         <div className=' bg-black bg-opacity-25 w-full h-[78px] flex '>
         <nav className=' flex h-[78px] bg-NavbarBg  justify-center gap-[255px] '>
-          <ul className=' flex gap-14 w- my-[30px] h-[22px] ml-[182px] '>
-            <li>Home</li>
-            <li>About</li>
-            <li>Pages</li>
-            <li>Project</li>
-            <li>Contact</li>
+          <ul className=' flex gap-6 w- my-[30px] h-[22px] ml-[182px] '>
+            <li dir='rtl' className=' border-s-[1px] border-white pr-[30px]'>Home</li>
+            <li dir='rtl' className=' border-s-[1px] border-white pr-[30px]'>About</li>
+            <li dir='rtl' className=' border-s-[1px] border-white pr-[30px]'>Pages</li>
+            <li dir='rtl' className=' border-s-[1px] border-white pr-[30px]'>Project</li>
+            <li dir='rtl' className=' border-s-[1px] border-white pr-[30px]'>Contact</li>
           </ul>
           <ul className='flex gap-4 my-[30px]  h-[22px] mr-2 '>
             <li><img src={Instagram} alt='/' className=' w-[20px] h-[20px]' /></li>
@@ -67,7 +68,7 @@ const Top = () => {
           <p className=' bg-[#041C37] w-[190px] mb-[3px] font-normal text-xs my-[3px] ml-[2px] '><span className=' border-l-4 border-x-yellow-500' ></span>Logistics & Supply Chain Solutions</p>
           <h1 className='w-[554px] h-[213px] text-[60px] font-bold leading-[71px] align-top text-left'>Your Gateway <br /> to any Destination in the World</h1>
           <p className=' w-[571px] h-[72px] mt-[6px] text-[16px] leading-6 font-medium align-top text-left'>In augue ligula, feugiat ut nulla consequat. Ut est lacus, molestie in arcu no, iaculis vehicula ipsum. Nunc faucibus, nisl id dapibus finibus, enim diam interdum nulla, sed laoreet risus lectus.</p>
-          <button className=' bg-gradient-to-br from-[#FFB629] from-0% via-[#FFDA56] via-50% to-[#FFD7A6] to-100% hover:from-[#FFD7A6] hover:to-[#FFB629] w-[194px] h-[60px] text-black mt-6 text-[16px] font-semibold leading-[22px]  align-top'>Explore More</button>
+          <button className=' bg-gradient-to-br from-[#FFB629] from-0% via-[#FFDA56] via-50% to-[#FFD7A6] to-100% hover:from-[#FFB629] hover:to-[#FFFFFF] w-[194px] h-[60px] text-black mt-6 text-[16px] font-semibold leading-[22px]  align-top'>Explore More</button>
         </div>
        </div>
        <div className=' flex justify-center w-[1200px] h-[311px] text-left align-top mx-[150px] my-[121px]'>

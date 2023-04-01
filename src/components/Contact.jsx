@@ -38,7 +38,7 @@ const Contact = () => {
             <input type='City' placeholder='  City*' className=' w-[365px] h-[60px] border border-[#4E5683] bg-transparent' />
           </div>
           <div>
-            <textarea placeholder='Your Message' className=' w-[758px] h-[154px] border border-[#4E5683] mt-[31px] bg-transparent '></textarea>
+            <textarea placeholder='  Your Message' className='  w-[758px] h-[154px] border border-[#4E5683] mt-[31px] bg-transparent '></textarea>
             <button className=' bg-gradient-to-br from-[#FFB629] from-0% via-[#FFDA56] via-50% to-[#FFD7A6] to-100% hover:from-[#FFD7A6] hover:to-[#FFB629] w-[194px] h-[60px] text-black mt-[30px] text-[16px] font-semibold leading-[22px]  align-top'>Submit Messages</button>
           </div>
        </div>
