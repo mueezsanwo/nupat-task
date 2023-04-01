@@ -87,7 +87,7 @@ const LowerBody = () => {
                 <img src={Photo9} alt='/' className=' w-[368px] h-[426px]' />
                 <div className=' bg-[#1C1F35] flex justify-between w-[364px] h-[112px]'>
                     <div className=' ml-[34px]'>
-                        <p className=' w-[123px] h-[24px] text-[20px] leading-[24px] font-medium align-top text-left text-white mt-[42px]'>Kathleen Smith</p>
+                        <p className=' w-[153px] h-[24px] text-[20px] leading-[24px] font-medium align-top text-left text-white mt-[42px]'>Kathleen Smith</p>
                         <p className=' w-[68px] h-[24px] text-white text-base font-medium text-left align-top'>Designer</p>
                     </div>
                     <div className=' bg-yellow-500 w-[181px] h-[51px] flex justify-center gap-4 -mt-[30px]'>
@@ -102,7 +102,7 @@ const LowerBody = () => {
                 <img src={Photo10} alt='/' className=' w-[368px] h-[426px]' />
                 <div className=' bg-[#1C1F35] flex justify-between w-[364px] h-[112px]'>
                     <div className=' ml-[34px]'>
-                        <p className=' w-[123px] h-[24px] text-[20px] leading-[24px] font-medium align-top text-left text-white mt-[42px]'>Rebecca Taylor</p>
+                        <p className=' w-[153px] h-[24px] text-[20px] leading-[24px] font-medium align-top text-left text-white mt-[42px]'>Rebecca Taylor</p>
                         <p className=' w-[68px] h-[24px] text-white text-base font-medium text-left align-top'>Designer</p>
                     </div>
                     <div className=' bg-yellow-500 w-[111px] h-[51px] flex justify-center gap-4 -mt-[30px]'>
